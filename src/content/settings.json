@@ -1,0 +1,28 @@
+{
+  "github": "Dsbooks11",
+  "camera": "",
+  "bio": "I take photos of things.",
+  "showDates": true,
+  "mastodon": "",
+  "author": "Dsbooks11",
+  "logo": {
+    "type": "text",
+    "image": "",
+    "text": ""
+  },
+  "enableSocial": true,
+  "navStyle": "float",
+  "instagram": "",
+  "location": "",
+  "title": "Dsbooks11's Photos",
+  "avatar": "/images/avatar.jpg",
+  "description": "A photography site on the Pirate Social network",
+  "cloudinary": {
+    "enabled": false,
+    "cloudName": "",
+    "apiKey": ""
+  },
+  "giphyKey": "",
+  "contactEmail": "",
+  "pirateFormsId": ""
+}
